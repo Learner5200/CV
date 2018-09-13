@@ -4,7 +4,7 @@ I'm currently learning the essentials of software development with Makers Academ
 
 ## Skills
 
-####Programming languages and frameworks
+#### Programming languages and frameworks
 
 - Achieved basic proficiency with **Ruby** and **Rails** in preparation for Makers Academy; used these to build a Pinterest clone. Plan to develop these skills during the Makers bootcamp.
 - Learned **Python** during my MSc at University College London; used it to program an interactive experimental game with a custom physics engine, among other projects
@@ -26,7 +26,7 @@ Throughout my academic and non-academic career I have made it a priority to hone
 - I have delivered and tailored presentations to various audiences: e.g. pitching behavioural interventions to clients of Ogilvy Consulting; teaching Harrow students the contemporary philosophy of free will; defending my written work to senior academics each week at Cambridge
 
 
-####Teamwork
+#### Teamwork
 
 I've had the good fortune to work in many diverse and brilliant teams in a variety of settings, and to learn how I can best help them thrive.
 
