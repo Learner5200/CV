@@ -1,88 +1,72 @@
 ## Chris Cooksley
 
-I'm currently learning the essentials of software development with Makers Academy, London, on their intensive 16-week fellowship program. Before joining Makers I completed an MSc in Behavioural Science and worked for Cancer Research UK as a strategy intern. I'm excited to finally be using my analytical skills to build things, and look forward to making a living from it four months from now.
+I'm a full stack developer proficient in Ruby and JavaScript, currently moving fast and making things at Makers' intensive 16-week bootcamp. I'm looking for a role with interesting challenges where I can grow my programming knowledge.
+Before Makers I studied cognitive science at Cambridge University (BA Natural Sciences) and UCL (MSc Cognitive and Decision Sciences), where I learnt to code behavioural experiments in Python. I also solved problems for Cancer Research UK as a strategy intern. I'm excited to finally be using my analytical skills to build software, and look forward to making a living from it.
 
 ## Skills
 
-#### Programming languages and frameworks
+#### Programming languages, frameworks and methodologies
 
-- Achieved basic proficiency with **Ruby** and **Rails** in preparation for Makers Academy; used these to build a Pinterest clone. Plan to develop these skills during the Makers bootcamp.
-- Learned **Python** during my MSc at University College London; used it to program an interactive experimental game with a custom physics engine, among other projects
-- Used **R** throughout my undergraduate and postgraduate degrees for data analysis
-- Learned the basics of **HTML**, **CSS** and **JavaScript** using freeCodeCamp
+- **Object oriented programming** using JavaScript, Python, Ruby
+- **Full-stack web development** with Ruby, Rails, PostgreSQL, JavaScript
+- **Test-driven development** with Jasmine, RSpec, Capybara
+- **Data analysis** with R and Python
+- **Pair Programming** and **Agile** team processes
 
 #### Problem Solving
 
-I pride myself on my ability to clearly define a problem, break it down into logical constituents (following the MECE principle), and systematically investigate and address each part while keeping an eye on the big picture.
+I pride myself on my ability to clearly define a problem, break it down into logical constituents, and systematically investigate and address each part while keeping an eye on the big picture. I developed this skill as a Strategy Intern for Cancer Research UK and a Philosophy undergraduate at Cambridge. I have honed it each week at Makers by confronting new challenges and developing a strong debugging process.  
 
-- At Cancer Research UK, I conducted a strategic analysis of problems with cancer treatment access in the UK. I created structured tree of hypotheses, planned and conducted multimodal research into each, presented practical recommendations to senior stakeholders.
-- In my two years studying philosophy at Cambridge, it was my weekly task to confront a thorny problem in logic or analytic philosophy, develop a clear mental model of it, and craft a coherent, persuasive solution. My ability to do this earned me the highest grades in the year two years running.
+#### Fast Learner
+
+- Before Makers, I have a long history of quickly learning new and challenging topics (analytic philosophy, neuroscience, statistics), and applying that knowledge to great success (the highest possible grade in every academic field I have entered).
+- My time at Makers has pushed me not only to learn  software engineering concepts at an incredible rate (e.g. I wrote a [web app](https://github.com/Learner5200/bowling-challenge) in JavaScript after 4-5 days of learning), but to take ownership of my learning by explicitly tracking progress towards my intellectual goals.
 
 #### Communication
 
-Throughout my academic and non-academic career I have made it a priority to hone my written and verbal communication skills.
-
-- I have presented first-class written work to deadline in multiple disciplines (Philosophy, Psychology, Neuroscience), including cutting-edge literature reviews, development of original arguments, logical structuring and eloquent explanation.
-- I have delivered and tailored presentations to various audiences: e.g. pitching behavioural interventions to clients of Ogilvy Consulting; teaching Harrow students the contemporary philosophy of free will; defending my written work to senior academics each week at Cambridge
-
-
-#### Teamwork
-
-I've had the good fortune to work in many diverse and brilliant teams in a variety of settings, and to learn how I can best help them thrive.
-
-- While at Cancer Research UK I worked with a team of interns to develop and deliver a series of fundraising events. I directed meetings, organised the logistics and gave constructive feedback.
-- I worked with two teams on Ogilvy's Behavioural Science summer school to design and pitch a set of behavioural interventions for a social enterprise combatting loneliness in seniors
-
+- Before Makers, I delivered first-class written work to deadline in diverse disciplines (Philosophy, Psychology, Neuroscience), tailored engaging presentations to diverse audiences (charity clients, academics, sixth-formers), and led brilliant teams to success in diverse settings (fundraising at Cancer Research UK, pitching behavioural science interventions to clients of Ogilvy UK)
+- During my [team](https://github.com/rbbri/makersbnb) [projects](https://github.com/Learner5200/acebook-MAICers) at Makers, I have used agile methodologies to develop lean software under tight time constraints. In the process, I have learned the importance of frequent, forthright and face-to-face communication of knowledge, needs and ideas to my teammates.
 
 ## Education
 
 #### Makers Academy (September 2018 to December 2018)
 
-- Curious and passionate about code [evidence to come from Makers projects]
-- Fast, independent learner [evidence to come from Makers projects]
-- Great collaborator [evidence to come from Makers projects]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+_16-week intensive software engineering bootcamp, focusing on:_
+- OOP
+- TDD
+- Pair programming
+- Agile methodologies
+- Learning how to learn
 
 #### University College London (September 2017 to September 2018)
 
 *MSc Cognitive and Decision Sciences*
-- Specialised in the psychology of decision-making and behaviour change
-- Included module in **Python** programming, for which I programmed an interactive experimental game with a custom physics engine. Attained a **grade of 82, among the highest in the cohort.**
-- Current average grade of **77.75**; awaiting grade for final dissertation
+- Distinction; named **'most outstanding student'** with an average grade of 77.
+- Module in **Python** programming: programmed an interactive experimental game with a bespoke physics engine.
 
 #### University of Cambridge (October 2013 to June 2016)
 
 BA Hons; changed tripos in final year to pursue scientific interests.
 
 *Part II Psychology (Natural Sciences Tripos)*
-- First Class; highest grade in Statistics
-- Represented the year group on the staff-student committee.
+- First Class; highest grade in *statistics*
 
 *Parts IA and IB Philosophy Tripos*
-- Achieved First Class with Distinction in both, the **highest exam results in the year group** two years running.
-- Best grades in **formal logic** (including propositional, first-order and modal logic, proof systems) and philosophy of science
+- **Highest exam result in the year group** two years running.
+- Highest grades in **formal logic** and philosophy of science
 
 
-## Experience
+## Work Experience
 
-**Ogilvy** (July 2018)    
-*Intern in Behavioural Science Team*
+**Ogilvy UK - _Intern in Behavioural Science Team_** (July 2018)    
 
-Worked in two teams to design, pitch and guide implementation of behavioural interventions for a social enterprise combatting loneliness in seniors
+**Cancer Research UK - _Strategy Intern_** (June 2017 to August 2017)   
 
-**Cancer Research UK** (June 2017 to August 2017)   
-*Strategy Intern*
-
-Assisted with development of organisation-wide strategy to improve patient access to cancer treatments.
 
 ## Interests
 
 Love cooking for anyone that will eat it, and eating anything people will cook for me. Big fan of London's street food markets, food science, 'gastrophysics' (look it up!) and Serious Eats.
 
-Recently taken up Dungeons & Dragons, and loving every moment of it. Currently a Tempest Cleric. Find me at the London Dungeons & Dragons meetups.
+Recently taken up Dungeons & Dragons, and loving every moment of it. Currently a Loremaster Wizard. Find me at the London Dungeons & Dragons meetup.
 
 Wandering round Hampstead Heath. Always very excited to meet other people's dogs.
