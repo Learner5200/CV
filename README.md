@@ -1,7 +1,11 @@
 ## Chris Cooksley
 
-I'm a full stack developer proficient in Ruby and JavaScript, currently moving fast and making things at Makers' intensive 16-week bootcamp. I'm looking for a role with interesting challenges where I can grow my programming knowledge.
-Before Makers I studied cognitive science at Cambridge University (BA Natural Sciences) and UCL (MSc Cognitive and Decision Sciences), where I learnt to code behavioural experiments in Python. I also solved problems for Cancer Research UK as a strategy intern. I'm excited to finally be using my analytical skills to build software, and look forward to making a living from it.
+I'm a **full stack web developer** proficient in **Ruby** and **JavaScript**, currently moving fast and making things at Makers' intensive 16-week bootcamp. I'm looking for a role with interesting challenges where I can grow my programming knowledge.
+Before Makers I studied cognitive science at Cambridge University (BA Natural Sciences) and UCL (MSc Cognitive and Decision Sciences), where I learnt to code behavioural experiments in **Python**. I also solved problems for Cancer Research UK as a strategy intern. I'm excited to finally be using my analytical skills to build software, and look forward to making a living from it.
+
+## Projects
+
+
 
 ## Skills
 
@@ -15,7 +19,9 @@ Before Makers I studied cognitive science at Cambridge University (BA Natural Sc
 
 #### Problem Solving
 
-I pride myself on my ability to clearly define a problem, break it down into logical constituents, and systematically investigate and address each part while keeping an eye on the big picture. I developed this skill as a Strategy Intern for Cancer Research UK and a Philosophy undergraduate at Cambridge. I have honed it each week at Makers by confronting new challenges and developing a strong debugging process.  
+- I pride myself on my ability to clearly define a problem, break it down into logical constituents, and systematically investigate and address each part while keeping an eye on the big picture.
+- I developed this skill as a Strategy Intern for Cancer Research UK, where I analysed access to surgery and radiotherapy for UK cancer patients, and as a Philosophy undergraduate at Cambridge, where I devised novel solutions to thorny philosophical problems each week.
+- I have honed it each week at Makers, where I have confront new challenges daily and developed a strong debugging process to overcome them.
 
 #### Fast Learner
 
