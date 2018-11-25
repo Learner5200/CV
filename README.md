@@ -5,6 +5,11 @@ Before Makers I studied cognitive science at Cambridge University (BA Natural Sc
 
 ## Projects
 
+| Name                       | Description                                                                   | Technologies                     |  Testing                           |
+| -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
+| [Acebook](https://github.com/Learner5200/acebook-MAICers)      | Clone of an infamous social media site                | Ruby, Rails             | RSpec, Capybara       |
+| [Codey Gonzales](https://github.com/sus111/codey-gonzalez)       | A speed type racer for code.                                         | JavaScript, Rails, Postgres           | Rspec, Capybara                    |
+| [Stay Cool](https://github.com/quad-piece/makers-bnb)            | A clone of AirBnb which allows you to view, request and book places to stay.  | Node, Rethink DB, Thinky         | Jasmine, Zombie, Mocha, Chai       |   
 
 
 ## Skills
@@ -19,9 +24,9 @@ Before Makers I studied cognitive science at Cambridge University (BA Natural Sc
 
 #### Problem Solving
 
-- I pride myself on my ability to clearly define a problem, break it down into logical constituents, and systematically investigate and address each part while keeping an eye on the big picture.
+- I pride myself on my ability to clearly define a problem, break it down into logical constituents, and systematically investigate and address each part.
 - I developed this skill as a Strategy Intern for Cancer Research UK, where I analysed access to surgery and radiotherapy for UK cancer patients, and as a Philosophy undergraduate at Cambridge, where I devised novel solutions to thorny philosophical problems each week.
-- I have honed it each week at Makers, where I have confront new challenges daily and developed a strong debugging process to overcome them.
+- I have honed it at Makers, where I have developed a strong debugging process to confront new challenges daily.
 
 #### Fast Learner
 
@@ -51,8 +56,6 @@ _16-week intensive software engineering bootcamp, focusing on:_
 - Module in **Python** programming: programmed an interactive experimental game with a bespoke physics engine.
 
 #### University of Cambridge (October 2013 to June 2016)
-
-BA Hons; changed tripos in final year to pursue scientific interests.
 
 *Part II Psychology (Natural Sciences Tripos)*
 - First Class; highest grade in *statistics*
