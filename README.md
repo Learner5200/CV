@@ -3,13 +3,14 @@
 I'm a **full stack web developer** proficient in **Ruby** and **JavaScript**, currently moving fast and making things at Makers' intensive 16-week bootcamp. I'm looking for a role with interesting challenges where I can grow my programming knowledge.
 Before Makers I studied cognitive science at Cambridge University (BA Natural Sciences) and UCL (MSc Cognitive and Decision Sciences), where I learnt to code behavioural experiments in **Python**. I also solved problems for Cancer Research UK as a strategy intern. I'm excited to finally be using my analytical skills to build software, and look forward to making a living from it.
 
-## Projects
+## Projects (COPIED SOMEONE ELSES AS TEMPLATE FOR NOW)
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
-| [Acebook](https://github.com/Learner5200/acebook-MAICers)      | Clone of an infamous social media site                | Ruby, Rails             | RSpec, Capybara       |
-| [Codey Gonzales](https://github.com/sus111/codey-gonzalez)       | A speed type racer for code.                                         | JavaScript, Rails, Postgres           | Rspec, Capybara                    |
-| [Stay Cool](https://github.com/quad-piece/makers-bnb)            | A clone of AirBnb which allows you to view, request and book places to stay.  | Node, Rethink DB, Thinky         | Jasmine, Zombie, Mocha, Chai       |   
+| [Acebook](https://github.com/Learner5200/acebook-MAICers)      | Clone of an infamous social media site.                | Ruby, Rails, Postgres             | RSpec, Capybara       |
+| [Bowling Scorecard](https://github.com/Learner5200/bowling-challenge)       | Calculates bowling scores.                                         | JavaScript, JQuery           | Jasmine                    |
+| [MakersBnB](https://github.com/rbbri/makersbnb)            | Clone of a popular hospitality site.  | Ruby, Sinatra, Postgres         | RSpec, Capybara       |   
+| [Causation Experiment](https://github.com/Learner5200/causation_experiment)   | Interactive experiment on causal perception; compare to see how far my code quality has come! | Python, Pygame, PyQt5  | NA  |
 
 
 ## Skills
