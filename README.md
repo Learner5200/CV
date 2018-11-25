@@ -3,7 +3,7 @@
 I'm a **full stack web developer** proficient in **Ruby** and **JavaScript**, currently moving fast and making things at Makers' intensive 16-week bootcamp. I'm looking for a role with interesting challenges where I can grow my programming knowledge.
 Before Makers I studied cognitive science at Cambridge University (BA Natural Sciences) and UCL (MSc Cognitive and Decision Sciences), where I learnt to code behavioural experiments in **Python**. I also solved problems for Cancer Research UK as a strategy intern. I'm excited to finally be using my analytical skills to build software, and look forward to making a living from it.
 
-## Projects (COPIED SOMEONE ELSES AS TEMPLATE FOR NOW)
+## Projects
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
