@@ -1,6 +1,7 @@
 ## Chris Cooksley
 
-I'm a **full stack developer** with experience coding in **Ruby**, **JavaScript** and **Swift**, and a recent graduate of Makers' intensive 16-week bootcamp. I'm looking for a role where I can help solve interesting problems and learn something new every day, while I grow my programming knowledge.
+I'm a **full stack developer** with experience coding in **Ruby**, **JavaScript** and **Swift**, and a love for test-driven development and agile working patterns. I'm looking for a role where I can help solve interesting problems and learn something new every day.
+
 Before Makers I solved problems for Cancer Research UK as a strategy intern, and studied cognitive science at Cambridge University (BA Natural Sciences) and at UCL (MSc Cognitive and Decision Sciences), where I learnt to code behavioural experiments in **Python**. I'm excited to finally be using my analytical skills to build things, and look forward to making a living from it.
 
 ## Projects
@@ -27,7 +28,7 @@ Before Makers I solved problems for Cancer Research UK as a strategy intern, and
 
 - I pride myself on my ability to clearly define a problem, break it down into logical constituents, and systematically investigate and address each part.
 - I developed this skill as a Strategy Intern for Cancer Research UK, where I analysed access to surgery and radiotherapy for UK cancer patients, and as a Philosophy undergraduate at Cambridge, where I devised novel solutions to thorny philosophical problems each week.
-- I have honed it at Makers, where I have developed a strong debugging process to confront new challenges daily.
+- I have honed it at Makers by confronting new challenges each day with a clear and systematic process, and coaches and peers have often commented on the strength of my debugging skills.
 
 #### Fast Learner
 
@@ -37,7 +38,7 @@ Before Makers I solved problems for Cancer Research UK as a strategy intern, and
 #### Communication
 
 - Before Makers, I delivered first-class written work to deadline in diverse disciplines (Philosophy, Psychology, Neuroscience), tailored engaging presentations to diverse audiences (charity clients, academics, sixth-formers), and led brilliant teams to success in diverse settings (fundraising at Cancer Research UK, pitching behavioural science interventions to clients of Ogilvy UK)
-- During my [team](https://github.com/rbbri/makersbnb) [projects](https://github.com/Learner5200/acebook-MAICers) at Makers, I have used agile methodologies to develop lean software under tight time constraints. In the process, I have learned the importance of frequent, forthright and face-to-face communication of knowledge, needs and ideas to my teammates.
+- During my [team](https://github.com/IrinaSTA/swiftcards) [projects](https://github.com/Learner5200/acebook-MAICers) at Makers, I have championed the use of agile methodologies to develop lean software under tight time constraints. In the process, I have learned the importance of frequent, forthright and face-to-face communication of knowledge, needs and ideas to my teammates.
 
 ## Education
 
