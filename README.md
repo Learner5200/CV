@@ -68,9 +68,9 @@ _16-week intensive software engineering bootcamp, focusing on:_
 
 ## Work Experience
 
-**Ogilvy UK - _Intern in Behavioural Science Team_** (July 2018)    
+**Ogilvy UK** - _Intern in Behavioural Science Team_ (July 2018)    
 
-**Cancer Research UK - _Strategy Intern_** (June 2017 to August 2017)   
+**Cancer Research UK** - _Strategy Intern_ (June 2017 to August 2017)   
 
 
 ## Interests
