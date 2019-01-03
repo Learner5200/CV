@@ -9,10 +9,11 @@ Before Makers I solved problems for Cancer Research UK as a strategy intern, and
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
 | [SwiftCards](https://github.com/IrinaSTA/swiftcards)      | Deck of cards app with peer-to-peer multiplayer (final project at Makers)                | Swift, Xcode, [Multipeer Connectivity](https://developer.apple.com/documentation/multipeerconnectivity)             | XCTest       |
-| [Acebook](https://github.com/Learner5200/acebook-MAICers)      | Clone of an infamous social media site.                | Ruby, Rails, Postgres             | RSpec, Capybara       |
-| [Bowling Scorecard](https://github.com/Learner5200/bowling-challenge)       | Calculates bowling scores.                                         | JavaScript, JQuery           | Jasmine                    |
+| [Acebook](https://github.com/Learner5200/acebook-MAICers)*      | Clone of an infamous social media site                | Ruby, Rails, Postgres, React*             | RSpec, Capybara       |
+| [Game of Life](https://github.com/Learner5200/game_of_life)       | Implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) with a command line interface                                         | JavaScript (ES6), ESLint           | Jest                    |
 | [Causation Experiment](https://github.com/Learner5200/causation_experiment)   | Interactive experiment on causal perception; compare to see how far my code quality has come! | Python, Pygame, PyQt5  | NA  |
 
+*This project was later divided into a [React front-end](https://github.com/MHUS25/acebook-maicers-fe) consuming a [Rails API](https://github.com/imtiyazzaman1/acebook-MAICers-backend), to fulfil a bonus requirement.
 
 ## Skills
 
