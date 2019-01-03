@@ -1,6 +1,6 @@
 ## Chris Cooksley
 
-I'm a **full stack developer** with experience coding in **Ruby**, **JavaScript** and **Swift**, and a love for test-driven development and agile working patterns. I'm looking for a role where I can help solve interesting problems and learn something new every day.
+I'm a **full stack developer** with experience writing **test-driven** code in **Ruby**, **JavaScript** and **Swift**. I'm looking for a role where I can help solve interesting problems and learn something new every day.
 
 Before Makers I solved problems for Cancer Research UK as a strategy intern, and studied cognitive science at Cambridge University (BA Natural Sciences) and at UCL (MSc Cognitive and Decision Sciences), where I learnt to code behavioural experiments in **Python**. I'm excited to finally be using my analytical skills to build things, and look forward to making a living from it.
 
