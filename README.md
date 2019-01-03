@@ -1,15 +1,15 @@
 ## Chris Cooksley
 
-I'm a **full stack web developer** proficient in **Ruby** and **JavaScript**, currently moving fast and making things at Makers' intensive 16-week bootcamp. I'm looking for a role with interesting challenges where I can grow my programming knowledge.
-Before Makers I studied cognitive science at Cambridge University (BA Natural Sciences) and UCL (MSc Cognitive and Decision Sciences), where I learnt to code behavioural experiments in **Python**. I also solved problems for Cancer Research UK as a strategy intern. I'm excited to finally be using my analytical skills to build software, and look forward to making a living from it.
+I'm a **full stack developer** proficient in **Ruby** and **JavaScript**, and a recent graduate of Makers' intensive 16-week bootcamp. I'm looking for a role where I can help solve interesting problems and learn something new every day, while I grow my programming knowledge.
+Before Makers I solved problems for Cancer Research UK as a strategy intern, and studied cognitive science at Cambridge University (BA Natural Sciences) and at UCL (MSc Cognitive and Decision Sciences), where I learnt to code behavioural experiments in **Python**. I'm excited to finally be using my analytical skills to build things, and look forward to making a living from it.
 
-## Projects (COPIED SOMEONE ELSES AS TEMPLATE FOR NOW)
+## Projects
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
+| [SwiftCards](https://github.com/IrinaSTA/swiftcards)      | Deck of cards app with peer-to-peer multiplayer (final project at Makers)                | Swift, Xcode, [Multipeer Connectivity](https://developer.apple.com/documentation/multipeerconnectivity)             | XCTest       |
 | [Acebook](https://github.com/Learner5200/acebook-MAICers)      | Clone of an infamous social media site.                | Ruby, Rails, Postgres             | RSpec, Capybara       |
 | [Bowling Scorecard](https://github.com/Learner5200/bowling-challenge)       | Calculates bowling scores.                                         | JavaScript, JQuery           | Jasmine                    |
-| [MakersBnB](https://github.com/rbbri/makersbnb)            | Clone of a popular hospitality site.  | Ruby, Sinatra, Postgres         | RSpec, Capybara       |   
 | [Causation Experiment](https://github.com/Learner5200/causation_experiment)   | Interactive experiment on causal perception; compare to see how far my code quality has come! | Python, Pygame, PyQt5  | NA  |
 
 
