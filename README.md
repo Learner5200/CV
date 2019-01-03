@@ -19,9 +19,10 @@ Before Makers I solved problems for Cancer Research UK as a strategy intern, and
 
 #### Programming languages, frameworks and methodologies
 
-- **Object oriented programming** using JavaScript, Python, Ruby
+- **Object oriented programming** using JavaScript, Ruby, Python, Swift
 - **Full-stack web development** with Ruby, Rails, PostgreSQL, JavaScript
-- **Test-driven development** with Jasmine, RSpec, Capybara
+- **iOS development** with Swift and Xcode
+- **Test-driven development** with Jest, Jasmine, RSpec, Capybara, XCTest
 - **Data analysis** with R and Python
 - **Pair Programming** and **Agile** team processes
 
