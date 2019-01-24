@@ -30,12 +30,12 @@ Before Makers I solved problems for Cancer Research UK as a strategy intern, and
 
 - I pride myself on my ability to clearly define a problem, break it down into logical constituents, and systematically investigate and address each part.
 - I developed this skill as a Strategy Intern for Cancer Research UK, where I analysed access to surgery and radiotherapy for UK cancer patients, and as a Philosophy undergraduate at Cambridge, where I devised novel solutions to thorny philosophical problems each week.
-- I have honed it at Makers by confronting new challenges each day with a clear and systematic process, and coaches and peers have often commented on the strength of my debugging skills.
+- I have honed it at Makers by confronting new challenges each day with a systematic process, and coaches and peers have often commented on the strength of my debugging skills.
 
 #### Fast Learner
 
 - Before Makers, I have a long history of quickly learning new and challenging topics (analytic philosophy, neuroscience, statistics), and applying that knowledge to great success (the highest possible grade in every academic field I have entered).
-- My time at Makers has pushed me not only to learn  software engineering concepts at an incredible rate (e.g. I wrote a [web app](https://github.com/Learner5200/bowling-challenge) in JavaScript after 4-5 days of learning), but to take ownership of my learning by explicitly tracking progress towards my intellectual goals.
+- My time at Makers has pushed me not only to learn  software engineering concepts at pace (e.g. I wrote a [web app](https://github.com/Learner5200/bowling-challenge) in JavaScript after 4-5 days of learning), but to take ownership of my learning by explicitly tracking progress towards my intellectual goals.
 
 #### Communication
 
